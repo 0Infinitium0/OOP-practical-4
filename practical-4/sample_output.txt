@@ -1,0 +1,23 @@
+PS C:\Users\Student\cpp-practicals> g++ practical4.cpp -o practical4
+PS C:\Users\Student\cpp-practicals> .\practical4.exe
+----- RAII AND SMART POINTERS -----
+Student Name: Satinderpal Singh Chaney
+Roll Number: E26B00S2034
+1. UNIQUE POINTER
+Unique Pointer Value: 100
+Ownership: Single Owner
+Memory Managed Automatically!
+2. SHARED POINTER
+Shared Pointer Value: 200
+Initial Reference Count: 1
+After Sharing:
+Reference Count: 2
+After Releasing One Owner:
+Reference Count: 1
+3. MEMORY MANAGEMENT
+Raw Pointer: Manual Memory Management
+Unique Pointer: Single Ownership
+Shared Pointer: Shared Ownership
+Memory Released Automatically!
+Program executed successfully.
+PS C:\Users\Student\cpp-practicals>
